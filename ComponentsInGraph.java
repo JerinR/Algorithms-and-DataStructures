@@ -1,3 +1,8 @@
+/*
+* To find the components in a graph
+*/
+
+
 import java.io.*;
 import java.util.*;
 
