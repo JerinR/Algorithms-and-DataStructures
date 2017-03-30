@@ -1,13 +1,15 @@
 /**
  * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
- * }
+ *
  */
 public class Solution {
+    
+     public class TreeNode {
+      int val;
+      TreeNode left;
+      TreeNode right;
+      TreeNode(int x) { val = x; }
+  }
     public int[] findValueMostElement(TreeNode root) {
         return find(root,new Stack(), new Stack());
         
