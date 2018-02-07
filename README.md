@@ -1,3 +1,3 @@
-# Trees_and_Graphs
+# Algorithms and DataStructures
 
-This repository contains code works on trees and graphs
+This repository contains code works on algorithms and data structures from various coding sites
